@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lab giude</string>
+    <string name="mech">أجهزة ميكانيكية</string>
+    <string name="electric">أجهزة كهربائية</string>
+    <string name="static_electric">"كهرباء ساكنة "</string>
+    <string name="magnetic_device">أجهزة مغناطيسية</string>
+    <string name="temp_device">أجهزة حرارة</string>
+    <string name="light_device">أجهزة ضوئية</string>
+    <string name="chemistry_device">أجهزة كيميائية</string>
+    <string name="bio">أجهزة أحياء</string>
+    <string name="glassware_device">زجاجيات</string>
+    <string name="helper_tool">أجهزة مساعدة</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+</resources>

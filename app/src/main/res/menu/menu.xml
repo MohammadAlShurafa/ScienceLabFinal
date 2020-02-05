@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/mech"
+            android:icon="@drawable/ic_mec"
+            android:title="@string/mech" />
+    </group>
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/elec"
+            android:icon="@drawable/ic_electr"
+            android:title="@string/electric" />
+    </group>
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/static_elec"
+            android:icon="@drawable/ic_static"
+            android:title="@string/static_electric" />
+    </group>
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/magn"
+            android:icon="@drawable/ic_magnetic"
+            android:title="@string/magnetic_device" />
+    </group>
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/temp"
+            android:icon="@drawable/temp"
+            android:title="@string/temp_device" />
+    </group>
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/light"
+            android:icon="@drawable/ic_light"
+            android:title="@string/light_device" />
+    </group>
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/chem"
+            android:icon="@drawable/ic_chem"
+            android:title="@string/chemistry_device" />
+    </group>
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/biol"
+            android:icon="@drawable/ic_biology"
+            android:title="@string/bio" />
+    </group>
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/glass"
+            android:icon="@drawable/ic_glass"
+            android:title="@string/glassware_device" />
+    </group>
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/helper"
+            android:icon="@drawable/ic_helper"
+            android:title="@string/helper_tool" />
+    </group>
+
+</menu>
